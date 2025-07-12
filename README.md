@@ -62,13 +62,8 @@ Customer churn is a major concern for businesses. This project predicts whether 
 
 ### 🔍 Streamlit UI
 <p align="center">
-  <img src="https://github.com/yourusername/yourrepo/assets/demo_streamlit_ui.png" width="80%" alt="Streamlit App UI"/>
+  <img src="https://github.com/priyanshu-sen-07/Churn-Prediction-using-ANN/blob/main/Screenshot%202025-07-12%20220019.png" width="80%" alt="Streamlit App UI"/>
 </p>
 
-### 📈 Training Metrics
-<p align="center">
-  <img src="https://github.com/yourusername/yourrepo/assets/training_plot.png" width="70%" alt="Training Accuracy and Loss"/>
-</p>
 
----
 
